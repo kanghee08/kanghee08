@@ -9,4 +9,4 @@
 print("Hello, gitHub")
 '''    
 
-!{winter}(./gif winter.gif)     
+!{winter}(./gifwinter.gif)     
