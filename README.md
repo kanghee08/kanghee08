@@ -1,4 +1,4 @@
-# 조강희
+# 깃허브 프로필
 조강희
  
 ## 소개
@@ -7,4 +7,6 @@
 
 '''py 
 print("Hello, gitHub")
-'''
+'''    
+
+!{winter}(./gif winter.gif)     
